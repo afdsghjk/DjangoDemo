@@ -1,3 +1,3 @@
 # DjangoDemo
 
-This project is used for Python.
+This project is used for Python web demo.
